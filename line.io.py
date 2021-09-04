@@ -1,5 +1,5 @@
 import turtle
-turtle.pensize(5)
+turtle.pensize(230)
 
 def drawUp():
     turtle.seth(90)
